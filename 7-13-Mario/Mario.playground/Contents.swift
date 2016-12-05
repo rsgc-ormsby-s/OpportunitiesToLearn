@@ -11,3 +11,9 @@
  */
 
 // Add your code below
+
+func levelCost(heights: [Int], maxJump: Int) -> Int {
+    
+    
+}
+
