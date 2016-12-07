@@ -12,8 +12,8 @@
  `setBotSubtitle("By The Boogiemaster")`
 */
 startBot()
-setBotTitle("Sunday Night Fever")
-setBotSubtitle("By John Showboater")
+setBotTitle("My Awesome Dance")
+setBotSubtitle("By the Boogiemaster")
 
 func doTheDisco() {
     fabulize()
