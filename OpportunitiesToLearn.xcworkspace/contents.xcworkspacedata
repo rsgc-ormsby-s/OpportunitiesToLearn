@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:19_EnumsAndSwitch.playground">
+   </FileRef>
+   <FileRef
+      location = "group:15_Structures.playground">
+   </FileRef>
+   <FileRef
       location = "group:12_InstancesMethodsProperties.playground">
    </FileRef>
    <FileRef

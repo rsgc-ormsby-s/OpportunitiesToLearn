@@ -10,11 +10,17 @@ Below the declaration of `friendPlans`, update `myPlans` by using the addition o
 Check the values of `myPlans` and `friendPlans`. Are they the same or different?
  */
 // Create your variables here:
-
-var myPlans = String("Go out for lunch. Do homework. Eat dinner. Go to sleep.")
-var friendsPlans = myPlans
-
-myPlans = myPlans + "Eat a midnight snack."
+//
+//var myPlans = String("Go out for lunch. Do homework. Eat dinner. Go to sleep.")
+//var friendsPlans = myPlans
+//
+//var planChecker = false
+//
+//myPlans = myPlans! + "Eat a midnight snack."
+//
+//if myPlans == friendsPlans {
+//var planChecker = true
+//}
 
 
 
@@ -32,7 +38,7 @@ Call the `addDance` function on `myPlans`, and assign the result to `friendPlans
 // Define and call your function here:
 
 
-
+//func addDance (String) -> String {
 
 /*:
  - callout(Exercise):
