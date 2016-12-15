@@ -26,6 +26,8 @@ let song = Song(title: "No, no, no", artist: "Fizz", duration: 150)
 //: - experiment: Try creating a new `Song`. Notice that the autocompletion pop-up menu will include the memberwise initializer.
 let song2 = Song(title: "Classic", artist: "The Boys at the cotty", duration: 126)
 
+song2.title
+
 
 //: Next, learn more about the properties of a struct.
 //:

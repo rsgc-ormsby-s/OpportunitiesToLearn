@@ -6,7 +6,7 @@
  Think of another real-world object and its properties. Make up some actions or behaviors that the object might be able to perform. Write them all in plain English first in a comment:
  */
  // Add your English-language description of the type here. Make sure to add // before each line of your comment description.
- //
+ //Hotdog
  //
  //
 
@@ -16,6 +16,31 @@
  *Hint: If you made any properties with custom types, you can create placeholder types that have empty implementations. (See the TrainingShoe code at the bottom of this page for an example.) The placeholder type below will make sure your playground can run without errors.*
  */
 // Add your own struct here:
+
+struct Hotdog {
+    var Length: Int
+    var relishAmount: Int
+    var mustardAmount: Int
+    var ketchupAmount: Int
+    var numberOfPickles: Int
+    var formattedLength:String
+}
+//        
+//    }
+//var formattedRelishAmount: String {
+//   return ("\(relishAmount) mL of Relish")
+//}
+//var formattedMustardAmount: String {
+//    return ("\(mustardAmount) mL of Mustard")
+//}
+//
+//var formattedKetchupAmount: String {
+//    return ("\(ketchupAmount) mL of Ketchup")
+//}
+//var NumberOfPickles: String
+//}
+
+
 
 
 
