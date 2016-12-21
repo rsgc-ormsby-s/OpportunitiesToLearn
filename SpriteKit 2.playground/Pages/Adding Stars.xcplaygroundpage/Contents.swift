@@ -9,9 +9,9 @@ let midPoint = CGPoint(x: frame.size.width / 2.0, y: frame.size.height / 2.0)
 
 var scene = SKScene(size: frame.size)
 
-let nyanCat = SKSpriteNode(imageNamed: "Nyancat")
+let nyanCat = SKSpriteNode(imageNamed: "Christmas")
 nyanCat.position = midPoint
-nyanCat.setScale(8.0)
+nyanCat.setScale(0.1)
 
 let actionMoveUp = SKAction.moveBy(x: 0, y: 10, duration: 0.15)
 let actionMoveDown = SKAction.moveBy(x: 0, y: -10, duration: 0.15)
