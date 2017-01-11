@@ -89,6 +89,10 @@ scene.addChild(Landscape)
 
 //: And show the scene in the liveView
 //Letting the scene present
+
+
+
+
 let view = SKView(frame: frame)
 view.presentScene(scene)
 PlaygroundPage.current.liveView = view
